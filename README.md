@@ -10,10 +10,10 @@
 
 ### Connect Me:
 
-[<img align="left" alt="codeSTACKr.com" width="29px" src="https://img.icons8.com/fluency/29/000000/domain.png" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="29px" src="https://img.icons8.com/doodle/29/000000/youtube-play--v2.png" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="29px" src="https://img.icons8.com/fluency/29/000000/twitter.png" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="29px" src="https://img.icons8.com/fluency/29/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="My Website" width="29px" src="https://img.icons8.com/fluency/29/000000/domain.png" />][website]
+[<img align="left" alt="YouTube" width="29px" src="https://img.icons8.com/doodle/29/000000/youtube-play--v2.png" />][youtube]
+[<img align="left" alt="Twitter" width="29px" src="https://img.icons8.com/fluency/29/000000/twitter.png" />][twitter]
+[<img align="left" alt="Instagram" width="29px" src="https://img.icons8.com/fluency/29/000000/instagram-new.png" />][instagram]
 
 <br />
 
