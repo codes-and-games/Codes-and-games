@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects and develop skills in CyberSecurity
 - ⚡ Fun fact: I love adventures
 
-### Connect Me:
+### Connect With Me:
 
 [<img align="left" alt="My Website" width="29px" src="https://img.icons8.com/fluency/29/000000/domain.png" />][website]
 [<img align="left" alt="YouTube" width="29px" src="https://img.icons8.com/doodle/29/000000/youtube-play--v2.png" />][youtube]
