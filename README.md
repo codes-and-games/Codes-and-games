@@ -4,7 +4,7 @@
 
 - 🔭 I am a Python Developer and have extensive knowledge of Hardware and Networking!
 - 🌱 I’m currently learning Advanced C and Arduino Development 
-- 👯 I’m looking to collaborate with other content creators
+- 🙋🏻‍♂️ I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects and develop skills in CyberSecurity
 - ⚡ Fun fact: I love adventures
 
