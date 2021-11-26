@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Advanced C and Arduino Development 
 - 🙋🏻‍♂️ I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects and develop skills in CyberSecurity
-- ⚡ Fun fact: I love adventures
+- 🤖 Fun fact: I love Google and Apple. 
 
 ### Connect With Me:
 
