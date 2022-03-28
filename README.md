@@ -57,7 +57,6 @@
 
 
 [website]: https://codes-and-games.github.io/Resume-of-Divyesh-S-Idhate/
-[twitter]: https://twitter.com/DivyeshIdhate
 [youtube]: https://www.youtube.com/channel/UC1Hkg61XhjM24z3lLqIgRfQ
 [instagram]: https://www.instagram.com/divyesh__idhate__/
 [vscode]: https://code.visualstudio.com/
