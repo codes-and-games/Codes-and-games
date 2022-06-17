@@ -55,7 +55,7 @@
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codes-and-games&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
-[website]: https://codes-and-games.github.io/Resume-of-Divyesh-S-Idhate/
+[website]: https://divyesh-idhate-portfollio.netlify.app/
 [youtube]: https://www.youtube.com/channel/UC1Hkg61XhjM24z3lLqIgRfQ
 [instagram]: https://www.instagram.com/divyesh__idhate__/
 [vscode]: https://code.visualstudio.com/
