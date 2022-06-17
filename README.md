@@ -43,11 +43,10 @@
 
 ### 📕 Latest Blog Posts
 
-- [NumPy Arrays in Python](https://codes-and-games.github.io/Resume-of-Divyesh-S-Idhate/blog%20site.html#portfolio)
-- [Password Managment Application using Python](https://codes-and-games.github.io/Resume-of-Divyesh-S-Idhate/blog%20site.html#portfolio)
-- [Zero to Hero Hardware Information (Written Notes)](https://codes-and-games.github.io/Resume-of-Divyesh-S-Idhate/blog%20site.html#portfolio)
+- [NumPy Arrays in Python](https://numpy-in-python.blogspot.com/2022/05/numpy-refresher.html)
+- [Follina Exploit In Brief](https://follina-exploit.blogspot.com/2022/06/follina-exploit-in-brief.html)
 
-➡️ [more blog posts...](https://codes-and-games.github.io/Resume-of-Divyesh-S-Idhate/blog%20site.html)
+➡️ [more blog posts...](https://divyesh-idhate-portfollio.netlify.app/#blogs)
 
 ---
 
