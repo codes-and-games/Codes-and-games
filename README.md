@@ -49,7 +49,7 @@
 
 ### GitHub Stats
 
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codes-and-games&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pirateSteel&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
 [website]: https://divyesh-journey.vercel.app/
