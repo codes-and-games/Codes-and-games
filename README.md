@@ -5,8 +5,7 @@
 - 🔭 I am a Python Developer and have extensive knowledge of Hardware and Networking!
 - 🌱 I’m currently learning Advanced C and Arduino Development 
 - 🙋🏻‍♂️ I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Contribute more to Open Source projects and develop skills in CyberSecurity
-- 🤖 Fun fact: My dream is to work at Google 
+- 🥅 2026 Goals: Focusing on my startup "Qompose".
 
 ### Connect With Me:
 
@@ -33,11 +32,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Checking router vulnerabilities with Kali Linux Nmap](https://www.youtube.com/watch?v=OlPb9_z5ehA)
-- [Network Sniffing using Kali Linux | Man In The Middle Attack](https://www.youtube.com/watch?v=72dkbazcMhc)
+- [Basic File Exploit](https://www.youtube.com/watch?v=5HXnUcxuyHw)
+- [Network Sniffing using Kali Linux | Man In The Middle Attack](https://www.youtube.com/watch?v=sLcpoi_lhYw)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UC1Hkg61XhjM24z3lLqIgRfQ)
 
 ---
 
@@ -46,7 +44,6 @@
 - [NumPy Arrays in Python](https://numpy-in-python.blogspot.com/2022/05/numpy-refresher.html)
 - [Follina Exploit In Brief](https://follina-exploit.blogspot.com/2022/06/follina-exploit-in-brief.html)
 
-➡️ [more blog posts...](https://divyesh-idhate-portfollio.netlify.app/#blogs)
 
 ---
 
@@ -55,9 +52,9 @@
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codes-and-games&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
-[website]: https://divyesh-idhate-portfollio.netlify.app/
-[youtube]: https://www.youtube.com/channel/UC1Hkg61XhjM24z3lLqIgRfQ
-[instagram]: https://www.instagram.com/divyesh__idhate__/
+[website]: https://divyesh-journey.vercel.app/
+[youtube]: https://www.youtube.com/@superPosed-v1/
+[instagram]: https://www.instagram.com/divyessshh_/
 [vscode]: https://code.visualstudio.com/
 [html]: https://en.wikipedia.org/wiki/HTML5
 [css]: https://en.wikipedia.org/wiki/CSS
