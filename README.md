@@ -3,7 +3,7 @@
 ## I'm a High School Student!!
 
 - 🔭 I am a Python Developer and have extensive knowledge of Hardware and Networking!
-- 🌱 I’m currently learning Advanced C and Arduino Development 
+- 🌱 I’m currently learning Advanced C and PCB design 
 - 🙋🏻‍♂️ I’m looking to collaborate with other content creators
 - 🥅 2026 Goals: Focusing on my startup "Qompose".
 
